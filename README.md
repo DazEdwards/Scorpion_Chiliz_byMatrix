@@ -3,9 +3,9 @@
 <div align="center">
     <img src="dashboard/src/assets/svg/matri_ai_logo.png" alt="Logo" width="200" height="200">
 </div>
-<!-- Matrix ai  -->
+<!-- Scorpion  -->
 
-# Matrix AI
+# Scorpion
 
 -  AI-powered sports fanzone with social networking features and NFT tokenisation
 - Cross platform application with WorldCoin authentication integration
